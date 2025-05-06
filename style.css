@@ -76,7 +76,7 @@ h2, p, h3 {
   position: absolute;
   left: 0;
   width: 100%;
-  height: 20px;
+  height: 16px;
   background-color: #ff7a00;
   animation: moveUpDown 6s infinite ease-in-out;
   z-index: 1;
